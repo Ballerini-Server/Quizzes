@@ -1,4 +1,4 @@
-# Quiz Javascript
+# Quiz da tecnologia da semana: Javascript
 
 ## const, var e let
 

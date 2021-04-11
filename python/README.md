@@ -1,3 +1,5 @@
+# Quiz da tecnologia da semana: Python
+
 ## 1) Qual será a saída do seguinte fragmento de código:
 ```py
 dictionary = {'fruit':'Pitaya',             
