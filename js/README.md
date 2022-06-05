@@ -247,14 +247,16 @@ function respondendoEvento(event) {
 9) Qual o retorno da função filter, usada em um array?
 
 a) Um objeto contendo os elementos do array que correspondem a condição filtrada;
+
 b) Uma lista dos elementos que correspondem a condição filtrada;
+
 c) O primeiro elemento que corresponde a condição filtrada;
+
 d) A quantidade de elementos que correspondem a condição filtrada;
 
 ## Template String
 
 ### Como usar
-B
 
 10) Qual dessas opções é a forma correta de concatenar texto e valores em uma string?
 
